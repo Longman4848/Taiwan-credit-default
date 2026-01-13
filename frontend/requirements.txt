@@ -1,18 +1,13 @@
-
+requests
 uvicorn
 gunicorn
 streamlit 
 scikit-learn 
 pandas  
 numpy 
-matplotlib
-seaborn 
 pydantic 
 mlflow 
 logging 
 pytest 
-pytest-mock 
-streamlit
-e = 
-setuptools
+e
 evidently
