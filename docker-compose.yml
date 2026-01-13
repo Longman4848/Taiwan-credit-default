@@ -1,0 +1,10 @@
+services:
+  backend:
+    build: ./backend
+    # ...
+  frontend:
+    build: ./frontend
+    environment:
+      - BACKEND_URL=http://backend:8000  # "backend" is the service name above
+    ports:
+      - "8501:8501"

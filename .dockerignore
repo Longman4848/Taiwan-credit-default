@@ -1,0 +1,25 @@
+Taiwan_Credit_Default/
+*.pkl
+*.dll
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.git
+.gitignore
+.idea
+.vscode
+.cache
+dist
+build
+*.log
+data/
+mlruns/
+# Ignore the data folder and all Excel files
+data/
+*.xls
+*.xlsx
+*.csv

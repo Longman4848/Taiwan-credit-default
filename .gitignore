@@ -1,0 +1,28 @@
+# Python virtual environments
+Taiwan_Credit_Default/
+.venv/
+venv/
+env/
+
+# Windows DLLs
+*.dll
+
+# ML models
+*.pkl
+*.joblib
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Data
+*.csv
+*.xlsx
+
+mlflow.db
+*.egg-info/
+data/
+*.png
+
+# Binaries
+*.dll
